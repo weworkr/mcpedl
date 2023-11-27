@@ -32,9 +32,33 @@
     {
       "app": "minecraft",
       "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/FoodPlus.mcaddon",
-      "image": "https://api.mcpedl.com/storage/submissions/151317/images/foods-plus_2.png",
-      "title": "Food's Plus 1",
+      "path": "Download/SERPLuckyBlocks.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1644250683_lucky-blocks-2.jpg",
+      "title": "SERP Lucky Blocks addon 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/SERPLuckyBlocks1.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1644250683_lucky.jpg",
+      "title": "SERP Lucky Blocks addon 2",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/SERPLuckyBlocks2.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1644250682_lucky-blocks-3.jpg",
+      "title": "SERP Lucky Blocks addon 3",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
+      "path": "Download/SERPLuckyBlocks3.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1644250662_lucky-blocks-1.jpg",
+      "title": "SERP Lucky Blocks addon 4",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
